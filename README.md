@@ -24,6 +24,7 @@ Graduado em **Sistemas de Informação** na Estácio de Sá. Possuo formação t
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=fanzz293&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" height="180em" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fanzz293&layout=compact&langs_count=7&theme=radical" alt="Linguagens mais usadas" height="180em" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fanzz293&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
