@@ -22,7 +22,7 @@ Graduado em **Sistemas de Informação** na Estácio de Sá. Possuo formação t
 ### Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fanzz293&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fabriciovieira-tech&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
